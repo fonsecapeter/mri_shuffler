@@ -16,5 +16,3 @@ This repo contains the code for blinding one's self to the identity of a set of 
 	unblinding or anything other than protection (in case the
 	researcher needs to name the files back or accidentally
 	renames the wrong files).
-
--peter
